@@ -1,53 +1,41 @@
-# Hi there, I'm Raiyan Rahman 
+# Hi there, I'm Raiyan Rahman 👋
 
-💻 **Computer Science Student @ University of Malaya**  
-🚀 Passionate about **Software Development, AI, and Data-Driven Applications**  
-🌍 Currently based in Kuala Lumpur  
+💻 Recent Computer Science Graduate @ University of Malaya
+🚀 Full-Stack Development · Data Engineering · AI/RAG Applications
+🌍 Based in Kuala Lumpur
 
----
+## 🔹 About Me
+- 🎓 Recent CS graduate (University of Malaya), specializing in Software Engineering
+- 💼 Former Software Engineering Intern @ **Razorpay Curlec** — built production fintech microservices, automated regression testing, and contributed to a Kubernetes/EKS migration
+- 🏗️ Building full-stack systems, data engineering pipelines, and LLM-powered applications
+- 📚 Continuously exploring new tools across the backend, data, and AI stack
 
-### 🔹 About Me
-- 🎓 Final-year CS student exploring **full-stack development** and **machine learning**  
-- 💡 Interested in building impactful, scalable, and user-centered software  
-- 📚 Always learning new technologies and improving my coding skills  
+## 🔹 Experience
+**Software Engineering Intern — Razorpay Curlec** 
+Built a config-driven Python microservice for payment collection processing, an automated regression testing framework (saving 70+ hours of manual work), and RESTful APIs with Spring Boot. Contributed to migrating the application to Amazon EKS for horizontal scalability.
 
----
+## 🔹 Tech Stack
+**Languages:** Java, Python, JavaScript/TypeScript, SQL, Golang
+**Full-Stack:** Spring Boot, React, Angular, Next.js, Node.js, Express
+**Data Engineering:** Databricks, PySpark, Apache Spark, Delta Lake, Airflow, Kafka, Medallion Architecture
+**Cloud & Infra:** AWS (EC2, S3, EKS), Kubernetes, Docker, PostgreSQL, MongoDB
+**AI/ML:** LangChain, OpenAI, ChromaDB, Scikit-learn, MLflow
 
-### 🔹 Tech Stack
-💻 **Languages:** Java, Python, JavaScript, SQL  
-⚙️ **Frameworks & Tools:** Spring Boot, React, Node.js, Express, Git, Docker  
-📊 **Data & ML:** Pandas, NumPy, Scikit-learn, Streamlit  
+## 🔹 Featured Projects
+- 🏗️ **[Artiselite — Warehouse Management System](https://github.com/raiyanr6/artiselite)**
+  Solo full-stack WMS built with Spring Boot, PostgreSQL, React, and Docker — deployed to a memory-constrained AWS EC2 free-tier instance with hand-tuned JVM flags and a static-build frontend served via Nginx.
 
----
+- 🤖 **[RAG AI Chatbot](https://github.com/raiyanr6/RAG-AIChatbot)**
+  Retrieval-Augmented Generation assistant built with LangChain, OpenAI, and ChromaDB over study materials, deployed via Streamlit.
 
-### 🔹 Featured Projects
-- 🔹 Backend Development for VirtualBazaar – Backend Application built using Spring boot framework
-- 🔹 Eco Travel - Full Stack Web Application - Created using MERN Stack
-- 🔹 TikTok Data Analysis - Collected data, Performed - EDA, Sentimental Analysis. Applied Machine Learning Algorithms and Created a dashboard using Streamlit
-- 🔹 Weather Application - Created a weather app for android users using java in Android Studio
+- 📊 **[Ecommerce Churn Prediction Platform](https://github.com/raiyanr6/ecommerce-churn-platform)**
+  Databricks Medallion-architecture lakehouse (bronze/silver/gold) with PySpark ETL, MLflow-tracked churn model, and a Streamlit UI deployed via Streamlit Cloud.
 
----
+- 🚕 **[NYC Taxi Data Engineering Pipeline](https://github.com/raiyanr6/nyc-taxi-data-engineering-pipeline)**
+  Medallion-architecture pipeline on Databricks ingesting from an AWS S3 data lake, orchestrated with Airflow, with Power BI dashboards surfacing revenue and trip metrics.
 
-### 🔹 Let’s Connect!
-📫 Reach me at: **raiyanrah6@gmail.com**  
+## 🔹 Let's Connect!
+📫 **Email:** [raiyanrah6@gmail.com](mailto:raiyanrah6@gmail.com)
+🔗 **GitHub:** [@raiyanr6](https://github.com/raiyanr6)
 
-
----
-
-⭐️ *“Striving to turn ideas into impactful software.”*
-
-
-<!--
-**raiyanr6/raiyanr6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ *"Striving to turn ideas into impactful software."*
